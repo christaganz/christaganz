@@ -1,0 +1,23 @@
+body {
+    color: rgb(68, 145, 23); 
+}
+header {
+    background-color: #242323;
+    color: #EFEFEF;
+}
+h1, article h2 {
+    color: #8C1018;
+}
+article a {
+    color: #314052;
+}
+header h1 {
+    font-size: 4em;
+ }
+ main figure > figcaption {
+    font-size: 0.75em;
+    font-style: italic;
+}
+p {
+    color: #8C1018
+}
