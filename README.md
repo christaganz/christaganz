@@ -1,4 +1,4 @@
-# class-redesigned
+
 My name is Christa Ganz
 This is a website for a New York City ELA teacher to update her class and keep all of the assignments together, during unprecedented times.
 Using this website will be pretty straight forward and allows for the teacher and her students (and parents) to have all the information saved in one place to navigate.
