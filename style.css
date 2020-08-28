@@ -2,22 +2,65 @@ body {
     color: rgb(68, 145, 23); 
 }
 header {
-    background-color: #242323;
-    color: #EFEFEF;
+    color: #314052;
 }
 h1, article h2 {
     color: #8C1018;
 }
-article a {
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+article {
     color: #314052;
 }
 header h1 {
     font-size: 4em;
+    font-family: cursive;
+ }
+ header h2 {
+     font-family: fantasy;
  }
  main figure > figcaption {
-    font-size: 0.75em;
+    font-size: 18px;
     font-style: italic;
+    text-align: center;
 }
 p {
     color: #8C1018
+}
+h1, h2, h3 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+#about {
+    background-color: cadetblue;
+    opacity: .6;
+    padding: 2px;
+    margin: 5px;
+    float: center;
+    position: relative;
+    font-weight: bolder;
+}
+#pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+#school{
+    padding: 50px;
+    margin-bottom: -5px;
+}
+#nav {
+    font-size: 20pt;
+    text-align: center;
+}
+li {
+    display: inline;
 }

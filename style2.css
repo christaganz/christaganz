@@ -1,0 +1,20 @@
+header {
+    color: lightcoral;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+#outsiders {
+    float: left;
+    margin-left: 20px;
+}
+#walk {
+    float: right;
+    margin-right: 20px;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
