@@ -1,15 +1,39 @@
 header {
-    color: lightcoral;
+    text-align: center;
+    font-family: cursive;
+}
+h1 {
+    color: midnightblue;
+}
+h4,h2 {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: lighter;
+}
+.box{
     text-align: center;
 }
-body {
-    text-align: center;
-}
+
 #outsiders {
     float: left;
     margin-left: 20px;
+    margin-top: 150px;
 }
 #walk {
     float: right;
     margin-right: 20px;
+    margin-top: 150px;
+}
+#nav{
+    font-size: 20px;
+}
+li {
+    display: inline;
+    padding: 5px;
+}
+figure {
+    text-align: center;
+}
+p {
+    text-align: center;
 }

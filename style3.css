@@ -2,10 +2,22 @@ header {
 color: teal;
 text-align: center;
 }
+h2 {
+    font-family: monospace;
+    font-size: 30px;
+    color: black;
+}
 article {
     color: teal;
     text-align: center;
 }
 p {
     text-align: center;
+}
+#news {
+    background-color: blanchedalmond;
+}
+#together {
+    float: left;
+    position: absolute
 }
