@@ -1,0 +1,13 @@
+header {
+color: teal;
+text-align: center;
+}
+article {
+    text-align: center;
+}
+section {
+    float: center;
+}
+blockquote {
+    float: center;
+}
