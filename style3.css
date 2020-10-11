@@ -3,11 +3,9 @@ color: teal;
 text-align: center;
 }
 article {
+    color: teal;
     text-align: center;
 }
-section {
-    float: center;
-}
-blockquote {
-    float: center;
+p {
+    text-align: center;
 }
