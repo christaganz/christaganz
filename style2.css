@@ -1,3 +1,7 @@
+/*resource page stylesheet*/
+body{
+    background-color: lightskyblue;
+}
 header {
     text-align: center;
     font-family: cursive;
@@ -13,10 +17,13 @@ h4,h2 {
 }
 .box{
     text-align: center;
+    font-family: Georgia;
 }
 #banner {
     float: left;
     position: absolute;
+    background-color: white;
+    position: fixed;
 }
 
 article {
@@ -29,6 +36,12 @@ article {
 li {
     display: inline;
     padding: 5px;
+}
+li a {
+    color: black
+}
+li a:hover {
+    background-color: white;
 }
 figure {
     text-align: center;
@@ -53,4 +66,12 @@ section#carousel > figure.visible > figcaption {
     text-align: center;
     font-weight: bold;
     font-size: 1.5em;
+}
+#info {
+    background-color: rgb(72, 82, 92);
+    opacity: 40%;
+    color: snow;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 10px;
 }

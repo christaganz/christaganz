@@ -23,12 +23,8 @@ p {
 }
 #together {
     float: left;
-    display: block;
-}
-#ela {
-    float: right;
-    display: block;
-    margin-bottom: 100px;
+    position: absolute;
+
 }
 #nav {
     text-align: center;
