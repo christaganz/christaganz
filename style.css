@@ -3,26 +3,25 @@ body {
 }
 header {
     color: #314052;
+    margin: auto;
 }
-h1, article h2 {
+h1, h2 {
     color: #8C1018;
 }
-
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
 }
-article {
-    color: #314052;
-}
 header h1 {
     font-size: 4em;
     font-family: cursive;
+    margin: auto;
  }
  header h2 {
      font-family: fantasy;
+     margin: auto;
  }
  main figure > figcaption {
     font-size: 18px;
@@ -30,10 +29,11 @@ header h1 {
     text-align: center;
 }
 p {
-    color: #8C1018
+    color: navy;
 }
 h1, h2, h3 {
     text-align: center;
+    margin: auto;
 }
 p {
     text-align: center;
@@ -60,7 +60,26 @@ p {
 #nav {
     font-size: 20pt;
     text-align: center;
+
 }
 li {
-    display: inline;
+    display: inline; 
+}
+li a {
+    color: white;
+}
+li a:hover {
+    background-color: black;
+}
+ul {
+    background-color: peru;
+}
+#welcome {
+display: flex;
+justify-content: center;
+}
+#books {
+    float: left;
+    margin-bottom: 25px;
+    position: absolute;
 }
