@@ -1,3 +1,5 @@
+/*contact page stylesheet*/
+
 header {
 color: teal;
 text-align: center;
@@ -9,7 +11,9 @@ h2 {
 }
 article {
     color: teal;
+    position: relative;
     text-align: center;
+    position: relative;
 }
 p {
     text-align: center;
@@ -19,5 +23,16 @@ p {
 }
 #together {
     float: left;
-    position: absolute
+    display: block;
+}
+#ela {
+    float: right;
+    display: block;
+    margin-bottom: 100px;
+}
+#nav {
+    text-align: center;
+}
+#letterpic {
+    display: block;
 }
